@@ -1,4 +1,4 @@
-# Keyholder desktop 🔒
+# Keyholder mobile 🔒
 [![](https://img.shields.io/badge/Version-1.0-white)]()
 [![](https://img.shields.io/badge/Language-Java-yellow)]()
 [![](https://img.shields.io/badge/Language-CSS-purple)]()
@@ -7,19 +7,13 @@
 Store your passwords in an offline encrypted file!
 <br></br>
 
-Need a JDK to run, download it [here](https://www.oracle.com/java/technologies/downloads/)!
-
 - Written in [Java 11](https://dev.java/) ♨️
 - [JavaFX](https://openjfx.io/) GUI with [JavaFX-Dark-Theme](https://github.com/antoniopelusi/JavaFX-Dark-Theme) 🌘
 <br></br>
 
 ## Download 📂
 Check the [GitHub releases](https://github.com/antoniopelusi/KeyHolder-desktop/releases) section to download the executable file available in the following formats:
-- `.exe`: Windows
-- `.deb`: Linux (Debian Package Manager)
-- `.rpm`: Linux (Red Hat Package Manager)
-- `.appimage`: Linux
-- `.jar`: Windows, Linux and MacOS
+- `.apk`: Android
 
 Feel free to compile it yourself and edit the source code:
 - Download the source code
